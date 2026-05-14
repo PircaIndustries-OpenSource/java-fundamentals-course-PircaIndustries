@@ -83,7 +83,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | Número de lección | Actividad | Empezar a programar |
 |:---:|---|---|
 | 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
-| 2 | Variables | [Replit](https://www.jdoodle.com/ia/1Tpo) |
+| 2 | Variables | [JDoodle](https://www.jdoodle.com/ia/1Tpo) |
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
 | 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
