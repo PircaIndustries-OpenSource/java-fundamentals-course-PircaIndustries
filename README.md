@@ -97,9 +97,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ---
 
-<!-- falta modificar team lider v -->
-
-
 ## 👥 Elaboración
 
 * **Universidad Peruana de Ciencias Aplicadas**
@@ -108,7 +105,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **1ASI0729 Desarrollo de Aplicaciones Open Source**
 * **NRC**: 17952
 * **Nombre del equipo**: PircaIndustries
-* **Líder del equipo**: [Nombres y Apellidos]
+* **Líder del equipo**: Montoya Nina, Paula Fernanda
 * **Integrantes del equipo**: 
   * Francia Torres, Jhony Manuel
   * Montoya Nina, Paula Fernanda
