@@ -22,11 +22,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Empieza a programar**: [Abrir OnlineJDB - Hola mundo](https://www.onlinegdb.com/online_java_compiler)
 
 
-<!-- falta actualizar v -->
 
 ### Lección 2: Variables y tipos de datos (8 minutos)
 * **Descripción**: Aprende a almacenar datos en Java usando variables.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+* **Enlace**: [Ver la lección](https://youtu.be/v_vVp9z1mRg)
 * **Conclusiones clave**: Usa `int`, `String`; declara como `int age = 15;`
 * **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/1Tpo) 👈 ¡No es necesario registrarse!
 
@@ -79,7 +78,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | Número de lección | Actividad | Empezar a programar |
 |:---:|---|---|
 | 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
-| 2 | Variables | [JDoodle](https://www.jdoodle.com/ia/1Tpo) |
+| 2 | Variables | [JDoodle](https://www.jdoodle.com/ia/1UaE) |
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
 | 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
