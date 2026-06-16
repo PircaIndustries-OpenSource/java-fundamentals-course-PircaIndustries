@@ -58,7 +58,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 
 
-### Lección 6: Consejos y próximos pasos (10 minutos)
+### Lección 6: Consejos y próximos pasos (5 minutos con 33 segundos)
 * **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 * **Enlace**: [Ver la lección](https://youtu.be/KIkZN2qaEzg)
 * **Consejos clave**: Explorar la documentación de Oracle Java y compartir tu código.
