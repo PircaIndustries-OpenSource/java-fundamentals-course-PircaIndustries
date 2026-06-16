@@ -15,13 +15,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ## 🚀 Secuencia de la Lección
 
 
-<!-- falta actualizar v -->
-
-### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
+### Lección 1: ¿Qué es Java y la Programación? (5 minutos con 36 segundos)
 * **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
-* **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-* **Empieza a programar**: [Abrir JDoodle Hola mundo](https://replit.com/@your-starter-java)
+* **Enlace**: [Ver la lección](https://youtu.be/FBvXpTasxVw)
+* **Conclusiones clave**: Programar es escribir instrucciones que la computadora obedece al pie de la letra. Java se usa para aplicaciones y juegos.
+* **Empieza a programar**: [Abrir OnlineJDB - Hola mundo](https://www.onlinegdb.com/online_java_compiler)
 
 
 <!-- falta actualizar v -->
@@ -60,13 +58,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 
 
-<!-- falta actualizar v -->
-
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 * **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
-* **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-* **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+* **Enlace**: [Ver la lección](https://youtu.be/KIkZN2qaEzg)
+* **Consejos clave**: Explorar la documentación de Oracle Java y compartir tu código.
+* **Compartir tu trabajo**: [Enviar creación](https://forms.gle/Jw4R3UGWbBCFTwX39)
 
 ---
 
