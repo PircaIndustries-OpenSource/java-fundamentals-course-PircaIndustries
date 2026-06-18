@@ -52,9 +52,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
 * **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+* **Enlace**: [Ver la lección](https://youtu.be/hKQPw0r7_Pc)
 * **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-* **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
+* **Proyecto final**: [Crea tu aplicación POO](https://www.onlinegdb.com/online_java_compiler) 👈 **¡Guarda y comparte!**
 
 
 ### Lección 6: Consejos y próximos pasos (5 minutos con 33 segundos)
