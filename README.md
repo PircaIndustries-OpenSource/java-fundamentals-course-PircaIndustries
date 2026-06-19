@@ -67,9 +67,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## 📚 Recursos adicionales
 
-<!-- falta modificar Código fuente completo v -->
 
-**Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
+**Código fuente completo**: [Repositorio de GitHub](https://github.com/PircaIndustries-OpenSource/java-fundamentals-course-PircaIndustries)
 
 <!-- falta modificar actividades prácticas v -->
 
