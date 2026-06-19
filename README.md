@@ -30,7 +30,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/1Tpo) 👈 ¡No es necesario registrarse!
 
 
-<!-- falta actualizar v -->
 
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
 * **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
@@ -39,7 +38,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
 
 
-<!-- falta actualizar v -->
 
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (8 minutos y 25 segundos)
 * **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
@@ -48,7 +46,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Práctica**: [Haz clic para practicar](https://onlinegdb.com/rP8Fi4M91) 👈 **¡No necesitas registrarte!**
 
 
-<!-- falta actualizar v -->
 
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
 * **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
@@ -70,7 +67,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Código fuente completo**: [Repositorio de GitHub](https://github.com/PircaIndustries-OpenSource/java-fundamentals-course-PircaIndustries)
 
-<!-- falta modificar actividades prácticas v -->
 
 **Todas las actividades prácticas**:
 
