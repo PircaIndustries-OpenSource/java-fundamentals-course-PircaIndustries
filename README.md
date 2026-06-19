@@ -35,7 +35,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 * **Enlace**: [Ver la lección](https://youtu.be/bHPZYNDhyOo?si=QYuSQmppRRHkz5Qe)
 * **Conclusiones clave**: `if (age == 12) {}`; `for (int i=0; i<5; i++) {}`
-* **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
+* **Práctica 1**: [Clic para programar](https://www.jdoodle.com/ga/NFiBMARhVc4tUN%2F%2B4fXVRw%3D%3D) 👈 **¡Inicio inmediato!**
+* **Práctica 2**: [Clic para programar](https://www.jdoodle.com/ga/QYPNscyyIbyXFpR77mp4UQ%3D%3D) 👈 **¡Inicio inmediato!**
 
 
 
@@ -51,7 +52,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 * **Enlace**: [Ver la lección](https://youtu.be/hKQPw0r7_Pc)
 * **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-* **Proyecto final**: [Crea tu aplicación POO](https://www.onlinegdb.com/online_java_compiler) 👈 **¡Guarda y comparte!**
+* **Proyecto final**: [Crea tu aplicación POO](https://onlinegdb.com/cQQq_Q9z7) 👈 **¡Guarda y comparte!**
 
 
 ### Lección 6: Consejos y próximos pasos (5 minutos con 33 segundos)
