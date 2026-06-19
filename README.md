@@ -36,7 +36,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 * **Enlace**: [Ver la lección](https://youtu.be/bHPZYNDhyOo?si=QYuSQmppRRHkz5Qe)
 * **Conclusiones clave**: `if (age == 12) {}`; `for (int i=0; i<5; i++) {}`
-* **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
+* **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
 
 
 <!-- falta actualizar v -->
@@ -78,9 +78,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 |:---:|---|---|
 | 1 | Hola mundo | [OnlineDb](https://www.onlinegdb.com/online_java_compiler) |
 | 2 | Variables | [JDoodle](https://www.jdoodle.com/ia/1UaE) |
-| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
+| 3 | Bucles | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
+| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/rP8Fi4M91) |
+| 5 | Programa OOP | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
 
 
 * **Cuestionario**: [Prueba de conocimientos](https://forms.gle/6EutH8ZVQkEBYSDM8)
