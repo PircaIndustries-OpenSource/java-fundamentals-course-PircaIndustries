@@ -43,7 +43,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 * **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+* **Enlace**: [Ver la lección](https://youtu.be/HFgBYk1qAtQ)
 * **Conclusiones clave**: `public static void greet() {}; Usa Scanner; class Hero { String heroName; }`
 * **Práctica**: [Haz clic para practicar](https://onlinegdb.com/rP8Fi4M91) 👈 **¡No necesitas registrarte!**
 
