@@ -4,7 +4,7 @@
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos.
 
 **¡No requiere descargas!** Solo abre tu navegador web.
-* **Duración total**: ~52 minutos
+* **Duración total**: ~53 minutos
 * **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 * **Prerrequisitos**: Ninguno
 * **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
@@ -23,7 +23,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 
 
-### Lección 2: Variables y tipos de datos (8 minutos)
+### Lección 2: Variables y tipos de datos (5 minutos y 15 segundos)
 * **Descripción**: Aprende a almacenar datos en Java usando variables.
 * **Enlace**: [Ver la lección](https://youtu.be/v_vVp9z1mRg)
 * **Conclusiones clave**: Usa `int`, `String`; declara como `int age = 15;`
@@ -31,7 +31,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 
 
-### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
+### Lección 3: Estructuras de control: Decisiones y bucles (4 minutos y 58 segundos)
 * **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 * **Enlace**: [Ver la lección](https://youtu.be/bHPZYNDhyOo?si=QYuSQmppRRHkz5Qe)
 * **Conclusiones clave**: `if (age == 12) {}`; `for (int i=0; i<5; i++) {}`
@@ -48,7 +48,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 
 
-### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
+### Lección 5: Fundamentos de POO y programas sencillos (23 minutos y 8 segundos)
 * **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 * **Enlace**: [Ver la lección](https://youtu.be/hKQPw0r7_Pc)
 * **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
